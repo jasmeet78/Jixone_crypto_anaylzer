@@ -4,7 +4,7 @@
 [![crypto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYkHz8pdu4yIvbKfufH-WzlAddXTjYOc4nrQ&usqp=CAU)](http://jixone.ml/)
 
 ## Demo
-#### Here is a working live demo :  https://crypto-hunter.netlify.app/
+#### Here is a working live demo :  https://jixone-crypto.netlify.app/
 
 ## Built with 
 
